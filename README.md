@@ -16,6 +16,10 @@ In construction
 * setuptools
 * metis
 
+From inside MCLA folder:
+* open a terminal console;
+* type in: ```sudo python3 setup.py install```.
+
 Usage
 -------
 
